@@ -12,5 +12,5 @@ Publish free with GitHub Pages:
 6. Wait for GitHub Pages to publish. Your URL will look like https://YOUR-USERNAME.github.io/REPOSITORY-NAME/ .
 7. To make it easier for Google to discover, add the published site in Google Search Console and request indexing. Google indexing is not instant or guaranteed.
 
-Instagram link is currently set to https://www.instagram.com/itz_priyanshuu_09/ .
+Instagram link is currently set to https://www.instagram.com/itz_priyanshuuu_09?vrfl=MWdyeW00N3N5emdpdg==
 This website is public when published. Check that you are comfortable sharing all photos before uploading them publicly.
